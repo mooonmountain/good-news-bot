@@ -1,0 +1,22 @@
+{
+  "name": "good-news-bot",
+  "version": "3.10.10",
+  "description": "Only good news",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "dependencies": {
+    "twit": "^2.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mooonmountain/good-news-bot/"
+  }
+}
